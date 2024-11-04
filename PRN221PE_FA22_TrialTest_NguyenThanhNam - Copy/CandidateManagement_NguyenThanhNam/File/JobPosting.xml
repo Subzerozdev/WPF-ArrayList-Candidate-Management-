@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<JobPostings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <JobPosting>
+    <PostingId>P0001</PostingId>
+    <JobPostingTitle>System Administrator Specialist (MS Exchange, AD Voice))</JobPostingTitle>
+    <Description>As our company is growing and we offer more service to our teams, we are looking
+      for a Senior System engineer with a broad set of expertise in Messaging, voice systems, mail
+      gateways, encryption (smime), etc.</Description>
+    <PostedDate>2022-07-01T00:00:00</PostedDate>
+  </JobPosting>
+  <JobPosting>
+    <PostingId>P0002</PostingId>
+    <JobPostingTitle>IT Security Manager</JobPostingTitle>
+    <Description>As our company is growing and we offer more service to our teams, we are looking
+      for a Senior System engineer with a broad set of expertise in Messaging, voice systems, mail
+      gateways, encryption (smime), etc.</Description>
+    <PostedDate>2022-07-01T00:00:00</PostedDate>
+  </JobPosting>
+  <JobPosting>
+    <PostingId>P0003</PostingId>
+    <JobPostingTitle>Developer</JobPostingTitle>
+    <Description>Developer with experience</Description>
+    <PostedDate>2024-11-07T00:00:00</PostedDate>
+  </JobPosting>
+</JobPostings>

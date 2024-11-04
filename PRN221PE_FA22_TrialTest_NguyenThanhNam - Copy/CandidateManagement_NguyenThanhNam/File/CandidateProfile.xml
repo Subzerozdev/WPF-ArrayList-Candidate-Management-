@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Candidates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CandidateProfile>
+    <CandidateId>CANDIDATE0001</CandidateId>
+    <Fullname>Alan Clinton</Fullname>
+    <Birthday>1990-09-01T00:00:00</Birthday>
+    <ProfileShortDescription>Excellent communication skills with a commitment to understanding
+      customer requirements as well as business objectives.</ProfileShortDescription>
+    <ProfileUrl>AlanClinton.PDF</ProfileUrl>
+    <PostingId>P0002</PostingId>
+  </CandidateProfile>
+  <CandidateProfile>
+    <CandidateId>CANDIDATE0002</CandidateId>
+    <Fullname>Ethelbert Harron</Fullname>
+    <Birthday>1990-09-01T00:00:00</Birthday>
+    <ProfileShortDescription>Excellent communication skills with a commitment to understanding
+      customer requirements as well as business objectives.</ProfileShortDescription>
+    <ProfileUrl>AlanClinton.PDF</ProfileUrl>
+    <PostingId>P0002</PostingId>
+  </CandidateProfile>
+</Candidates>
